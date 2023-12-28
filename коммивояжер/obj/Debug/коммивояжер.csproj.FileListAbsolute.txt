@@ -1,0 +1,7 @@
+C:\Users\belog\source\repos\коммивояжер\коммивояжер\bin\Debug\коммивояжер.exe.config
+C:\Users\belog\source\repos\коммивояжер\коммивояжер\bin\Debug\коммивояжер.exe
+C:\Users\belog\source\repos\коммивояжер\коммивояжер\bin\Debug\коммивояжер.pdb
+C:\Users\belog\source\repos\коммивояжер\коммивояжер\obj\Debug\коммивояжер.csproj.AssemblyReference.cache
+C:\Users\belog\source\repos\коммивояжер\коммивояжер\obj\Debug\коммивояжер.csproj.CoreCompileInputs.cache
+C:\Users\belog\source\repos\коммивояжер\коммивояжер\obj\Debug\коммивояжер.exe
+C:\Users\belog\source\repos\коммивояжер\коммивояжер\obj\Debug\коммивояжер.pdb
